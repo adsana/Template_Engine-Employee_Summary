@@ -1,0 +1,29 @@
+{
+  "name": "template_engine-employee_summary",
+  "version": "1.0.0",
+  "description": "team of employees summary",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest --verbose test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adsana/Template_Engine-Employee_Summary.git"
+  },
+  "author": "Adsana Sayasith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adsana/Template_Engine-Employee_Summary/issues"
+  },
+  "homepage": "https://github.com/adsana/Template_Engine-Employee_Summary#readme",
+  "dependencies": {
+    "inquirer": "^6.5.2"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
